@@ -1,0 +1,14 @@
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: khoa <khoattn@gmail.com>
+Depends: winterboard
+Filename: debs//dropbear/com.ichitaso.dropbear_1.0_iphoneos-arm.deb
+Size: 1443794
+MD5sum: 6b531407ddfd50567e994592164d82e2
+SHA1: 77b814bde507d029ef22ea910793b72feee75e33
+SHA256: 8dd181f11bc7bdfbe71489ffb6d4e3cf455c88135ae10d5866b4ad4485bc9235
+Section: Themes (Messages)
+Description: Android Lollipop Messages for iOS!
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: 
+Name: Android Lollipop Messages
