@@ -1,0 +1,9 @@
+Origin: Khoa test Repo
+Label: Khoa test repo
+Suite: stable
+Version: 1.0
+Codename: khoatran
+Architectures: iphoneos-arm
+Components: main
+Description: Khoa test repo
+MD5Sum:
